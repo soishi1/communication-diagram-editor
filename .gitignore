@@ -16,3 +16,6 @@ vendor/
 
 # goenv
 .go-version
+
+# go-bindata
+bindata.go
